@@ -1,0 +1,34 @@
+//(*) represent everything
+*{
+text-align: right;
+}
+body {
+    background-image: url(ian.jpg);
+}
+
+h2, p{
+  color: red; 
+  text-align: center; 
+  border: 5px solid rgba(255, 176, 170, 0.5)
+ cursor: pointer;
+}
+p {
+    color: black !important;
+}
+p {
+    color: green;
+}
+li {
+    list-style: none;
+    display: inline-block;
+
+}
+.webtext:last-child {
+    border: 5px dashed orange;
+}z
+.active {
+    color: red;
+}
+#div1{
+    background: blue;
+}

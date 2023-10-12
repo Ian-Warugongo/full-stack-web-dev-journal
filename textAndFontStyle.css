@@ -1,0 +1,36 @@
+
+h2{
+  color: #aa4139; 
+  text-align: center; 
+  border: 5px solid rgba(255, 176, 170, 0.5)
+  cursor: pointer;
+}
+p {
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: 'poiret One', cursive;
+}
+img {
+float: left;
+}
+footer {
+    clear: both;
+    text-align: ;
+}
+ 
+li {
+    list-style: none;
+    display: inline-block;
+
+}
+.webtext:first-child {
+    border: 5px dashed orange;
+}z
+.active {
+    color: red;
+}
+#div1{
+    background: blue;
+}
